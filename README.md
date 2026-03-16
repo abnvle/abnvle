@@ -24,8 +24,6 @@ Linux administration, server management, load balancing, virtualization, and eve
 
 | Project | Description |
 |---|---|
-| [wildu.app](https://wildu.app) | Environmental reporting platform for Polish municipalities |
-| [sctapp.com](https://sctapp.com) | Clean Transport Zone vehicle checker |
 | [ha-matomo](https://github.com/abnvle/ha-matomo) | 📊 Matomo Analytics integration for Home Assistant |
 | [ha-imgw-pib-monitor](https://github.com/abnvle/ha-imgw-pib-monitor) | 🌦️ IMGW-PIB weather & warnings integration for Home Assistant |
 
