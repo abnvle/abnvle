@@ -26,6 +26,7 @@ Linux administration, server management, load balancing, virtualization, and eve
 |---|---|
 | [ha-matomo](https://github.com/abnvle/ha-matomo) | 📊 Matomo Analytics integration for Home Assistant |
 | [ha-imgw-pib-monitor](https://github.com/abnvle/ha-imgw-pib-monitor) | 🌦️ IMGW-PIB weather & warnings integration for Home Assistant |
+| [oxicloud-public-proxy](https://github.com/abnvle/oxicloud-public-proxy) | 🌐 Public proxy for sharing files from local [OxiCloud](https://github.com/AtalayaLabs/OxiCloud) |
 
 ## 🛠️ Tech I use for hobby projects
 
